@@ -4,7 +4,7 @@ $sname= "192.168.1.101";
 
 $unmae= "root";
 
-$password = "890/Fuck";
+$password = "root";
 
 $db_name = "library";
 
